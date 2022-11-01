@@ -1,0 +1,6 @@
+{
+  "name": "Lightning Movie App Project",
+  "identifier": "com.domain.app.LightningMovieAppProject",
+  "version": "1.0.0",
+  "icon": "./static/icon.png"
+}
